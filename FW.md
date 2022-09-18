@@ -24,4 +24,5 @@ count++;
 
 [Блок схему можно посмотреть кликнув сюда ](https://drive.google.com/file/d/1qB9q3M1RoJdoQYDCv5H_PjMGVb7CnTEd/view?usp=sharing)
 
+Программу можно посмотреть в папке Program.cs
 
